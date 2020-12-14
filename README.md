@@ -16,5 +16,8 @@ The initial web app presented to Robin is looking good and functioning well, but
  
  
  ## 3 Add Bootstrap 3 Components
-  Robin really impress with the web-app ,but she like to make it more stand out. To deliver this request we have to use the Bootstrap 3 components. We modified the index.html     so that the title "Mars Hemisphere" stand out with the format using jumbotron and h1. We also make the image display using thumpnail format with mixed: mobile and desktop of   col-md-3. 
+  Robin really impress with the web-app ,but she like to make it more stand out. To deliver this request we have to use the Bootstrap 3 components. We modified the index.html     so that the title "Mars Hemisphere" stand out with the format using jumbotron and h1. We also make the image display using thumpnail format with mixed: mobile and desktop of   col-md-3. The result for this are shown below :
+  
+  
+  Github link is shown below :
 
