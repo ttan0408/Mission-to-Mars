@@ -7,7 +7,7 @@ The initial web app presented to Robin is looking good and functioning well, but
  
   In this steps we are using Jupyter Notebooks to scrape Full-Resolution Mars Hemisphere Images and Titles. Using Jupyter Notebook will help us to test the initial code so that   we can use it for the automatic scraping . We were able to obtain the list of titles and images for Mars Hemisphere. The Jupyter Notebook is shown below :
   
-  
+  https://github.com/ttan0408/Mission-to-Mars/blob/main/Challenge_1.PNG
  
  ## 2 Update the Web App with Mars Hemisphere Images and Titles
  
